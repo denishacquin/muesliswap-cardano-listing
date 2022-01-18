@@ -1,0 +1,10 @@
+{
+    "policyId": "ac8cf88b618b749dbe5c9a8f421a252c91276a8d68b49a584fd89d11",
+    "name": "SeaShard",
+    "symbol": "SHD",
+    "website": "https://seashard.io",
+    "description": "A magical fragment of the sea. Official SeaShard.io game token.",
+    "totalSupply": 100000000,
+    "amounts": [1, 5, 10, 50, 100, 500, 1000, 5000, 10000],
+    "decimalPlaces": 0
+}
